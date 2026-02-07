@@ -1,5 +1,23 @@
 # 💫 About Me:
-About Me – Java Full Stack Developer<br><br> I’m currently working on<br>Building full-stack web applications using Java, Spring Boot, REST APIs,  and MySQL, focusing on clean architecture and scalable backend services.<br><br> I’m looking to collaborate on<br>Java-based full stack projects, REST API development, Spring Boot applications.<br><br>I’m looking for help with<br>Advanced Spring Boot concepts, performance optimization, and best practices for production-level applications.<br><br> I’m currently learning<br>Spring Boot (Security & JPA), Microservices fundamentals,  SQL optimization, and Git/GitHub workflows.<br><br> Ask me about<br>Java, OOP concepts, Spring Boot, REST APIs, MySQL, HTML, CSS, JavaScript,  and full stack project structure.<br><br> Fun fact<br>I enjoy solving coding problems and balancing my tech journey with fitness—discipline from the gym helps me stay consistent in coding too 💪💻<br><br>
+👨‍💻 About Me – Java Full Stack Developer
+
+🔭 I’m currently working on
+Building full-stack web applications using Java, Spring Boot, REST APIs,  and MySQL, focusing on clean architecture and scalable backend services.
+
+👯 I’m looking to collaborate on
+Java-based full stack projects, REST API development, Spring Boot applications.
+
+🤝 I’m looking for help with
+Advanced Spring Boot concepts, performance optimization, and best practices for production-level applications.
+
+🌱 I’m currently learning
+Spring Boot (Security & JPA), Microservices fundamentals,  SQL optimization, and Git/GitHub workflows.
+
+💬 Ask me about
+Java, OOP concepts, Spring Boot, REST APIs, MySQL, HTML, CSS, JavaScript,  and full stack project structure.
+
+⚡ Fun fact
+I enjoy solving coding problems and balancing my tech journey with fitness—discipline from the gym helps me stay consistent in coding too 💪💻<br><br>
 
 
 ## 🌐 Socials:
@@ -17,8 +35,6 @@ About Me – Java Full Stack Developer<br><br> I’m currently working on<br>Bui
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Md-Saleem-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
